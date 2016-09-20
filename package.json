@@ -1,0 +1,26 @@
+{
+  "name": "json-parse-object-validator",
+  "version": "1.0.0",
+  "description": "Validates that a string passed into JSON.parse converts to object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nongaap/JSON-Parse-Object-Validator.git"
+  },
+  "author": "Mike Puangmalai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nongaap/JSON-Parse-Object-Validator/issues"
+  },
+  "homepage": "https://github.com/nongaap/JSON-Parse-Object-Validator#readme",
+  "devDependencies": {
+    "eslint": "^3.5.0",
+    "eslint-config-airbnb": "^11.1.0",
+    "eslint-plugin-import": "^1.15.0",
+    "eslint-plugin-jsx-a11y": "^2.2.2",
+    "eslint-plugin-react": "^6.3.0"
+  }
+}
